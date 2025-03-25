@@ -13,7 +13,7 @@ import joblib
 import matplotlib.pyplot as plt
 
 # Load dataset
-data = pd.read_csv("./credit_score_data/Credit Score Classification Dataset.csv")
+data = pd.read_csv("./credit_score_data/large_demographic_data.csv")
 
 # 1. Preprocessing
 # Encode categorical features
